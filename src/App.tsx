@@ -13,7 +13,7 @@ export const App = () => {
     <div className="flex items-center flex-col max-h-full py-8 px-2">
       <div className="flex items-center flex-col">
         <img
-          src="public/work-hays-logo-horizontal.png"
+          src="work-hays-logo-horizontal.png"
           className="lg:max-w-xl max-w-sm  "
         />
         <div className="lg:text-2xl text-lg text-gray-500 lg:-mt-6 -mt-4 mb-6">
