@@ -33,7 +33,7 @@ export const App = () => {
                   <a
                     className="lg:text-base font-bold text-sm w-64 lg:w-fit truncate text-indigo-500 hover:underline hover:text-indigo-600"
                     href={`https://www.workhays.com/jobs/${item.id}`}
-                    target="_blank"
+                    //target="_blank"
                   >
                     {item.Title} ↗
                   </a>
