@@ -37,7 +37,9 @@ export const App = () => {
                   >
                     {item.Title} ↗
                   </a>
-                  <div className="text-sm antialiased mr-2">{item.Date}</div>
+                  <div className="text-sm antialiased mr-2 w-24">
+                    {item.Date}
+                  </div>
                 </div>
                 <div className="leading-6 text-gray-900 antialiased line-clamp-3">
                   {item.Description}
